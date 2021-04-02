@@ -95,8 +95,6 @@ That's it! enjoy :)
 
 - **Database Management Systems:**
     - MySQL
-    - PostgreSQL
-        - PostGIS
     - MongoDB
         - MongoDB Web UI
 
